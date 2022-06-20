@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\bin\Debug\Module10Project.exe.config
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\bin\Debug\Module10Project.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\bin\Debug\Module10Project.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.csprojResolveAssemblyReference.cache
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.frmStarOfTheRadio.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\Module10Solution\Module10Project\obj\Debug\Module10Project.pdb
